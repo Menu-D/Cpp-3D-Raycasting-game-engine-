@@ -59,7 +59,8 @@ This project is a wonderful way to learn how :
 Picture of what the engine looks like 
 
 -<img width="600" height="800" alt="Screenshot 2025-09-17 192014" src="https://github.com/user-attachments/assets/94669875-b5c7-4297-8ddc-35a45565a7bc" />
--<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/b409e577-7d99-4c48-9630-803be45f12ee" />
+
+-<img width="620" height="820" alt="image" src="https://github.com/user-attachments/assets/b409e577-7d99-4c48-9630-803be45f12ee" />
 
 
 
