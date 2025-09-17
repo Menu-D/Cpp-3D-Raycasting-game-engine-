@@ -58,7 +58,7 @@ This project is a wonderful way to learn how :
 
 Picture of what the engine looks like 
 
--<img width="1111" height="849" alt="Screenshot 2025-09-17 192014" src="https://github.com/user-attachments/assets/94669875-b5c7-4297-8ddc-35a45565a7bc" width = 120 />
+-<img width="1111" height="849" alt="Screenshot 2025-09-17 192014" src="https://github.com/user-attachments/assets/94669875-b5c7-4297-8ddc-35a45565a7bc" width = 30 />
 
 
 
