@@ -15,12 +15,8 @@ This project consists of a simple 3D raycasting engine which is written in C++ t
 
   std::wstring map;
 
-  map+= L"###########";
-  map+= L"#.........#";
-  map+= L"#...###...#";
-  map+= L"#...###...#";
-  map+= L"#...###...#";
-  map+= L"###########";
+  <img width="130" height="112" alt="image" src="https://github.com/user-attachments/assets/cb79d80d-285d-4aa9-9790-041f37f1ac30" />
+
 
 - This will produce a 10 x 6 map which you can edit the walls # and floor . to create your own level!
 
